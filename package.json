@@ -30,21 +30,21 @@
   },
   "bugs": "https://github.com/onwd/nestjs-ml/issues",
   "peerDependencies": {
-    "@nestjs/common": "^7.6.12"
+    "@nestjs/common": "^8.0.6"
   },
   "dependencies": {},
   "devDependencies": {
-    "@nestjs/common": "^7.6.12",
-    "@nestjs/core": "^7.6.12",
-    "@nestjs/testing": "^7.6.12",
-    "@types/jest": "^26.0.20",
-    "@types/node": "^14.14.30",
-    "jest": "^26.6.3",
-    "ts-jest": "^26.5.1",
-    "ts-node": "^9.1.1",
-    "tsconfig-paths": "^3.9.0",
+    "@nestjs/common": "^8.0.6",
+    "@nestjs/core": "^8.0.6",
+    "@nestjs/testing": "^8.0.6",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.1",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.5",
+    "ts-node": "^10.2.1",
+    "tsconfig-paths": "^3.10.1",
     "tslint": "^6.1.3",
-    "typescript": "^4.1.5"
+    "typescript": "^4.3.5"
   },
   "jest": {
     "moduleFileExtensions": [
