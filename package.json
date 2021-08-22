@@ -1,6 +1,6 @@
 {
   "name": "nestjs-ml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NestJS Machine Learning helpers.",
   "author": "onwd",
   "license": "MIT",
